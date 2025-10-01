@@ -1,4 +1,3 @@
-
 # SQL Project – HR Analytics (Databricks, Spark SQL)
 
 ## Goal
