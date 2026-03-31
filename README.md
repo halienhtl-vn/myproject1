@@ -8,3 +8,4 @@ IBM HR Analytics Employee Attrition dataset (Kaggle)
 Databricks Spark SQL | SQL queries (subqueries, CTEs, WINDOW FUNCTIONs, etc.) | Data exploration for HR insights
 ## Some Insights
 Sales department shows the highest attrition. Overtime is linked to turnover. An attrition risk in younger and mid-career groups
+
